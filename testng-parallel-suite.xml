@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="A Suite" parallel="methods" thread-count="4">
+    <test name="A test" parallel="methods" thread-count="4">
+        <packages>
+            <package name="testng2361" />
+        </packages>
+    </test>
+</suite>
